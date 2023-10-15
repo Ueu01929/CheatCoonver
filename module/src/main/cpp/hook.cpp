@@ -33,7 +33,7 @@
 #include <fstream>
 #include <limits>
 #include <thread>
-#define GamePackageName "com.pixel.gun3d"
+#define GamePackageName "com.MA.Polyfield"
 
 int glHeight, glWidth;
 //dear future self, if this game ever updat
